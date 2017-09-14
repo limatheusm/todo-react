@@ -1,6 +1,6 @@
 # ToDo App
 
-First application with React, NodeJs, Express and MongoDB.
+First application with React+Redux, NodeJs, Express and MongoDB.
 
 ![TodoApp](/img/todo.png)
 
